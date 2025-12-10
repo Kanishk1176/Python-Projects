@@ -6,6 +6,6 @@ product = n1 * n2
 quotient = n1 / n2
 print("Addition: ",sum_)
 print("Subtraction: ",difference)
-print("Multiplication: ",product,)
+print("Multiplication: ",product)
 print("Division: ",round(quotient,2))
 
