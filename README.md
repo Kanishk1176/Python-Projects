@@ -1,4 +1,3 @@
-# Python-Projects
 # Python Assignment – 1
 
 This repository contains the solutions for Task 1 and Task 2 of the Python Assignment-1 of Module 2
