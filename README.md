@@ -7,14 +7,14 @@ This repository contains the solutions for Task 1 and Task 2 of the Python Assig
 - **task2.py** – Prints an introductory greeting for the user
 ## Description
 These programs demonstrate basic Python concepts such as:
-Variables
-Input and output
-Conditional statements
-Loops
-Basic calculations
+- **Variables**
+- **Input and Output**
+- **Basic calculations**
+
 Each script follows the assignment instructions and produces the required output.
 
 ---
+
 If you have any issues running the code, feel free to contact the author.
 
 
